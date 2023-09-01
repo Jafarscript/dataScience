@@ -100,7 +100,8 @@ Overall, data science, along with related disciplines like big data, machine lea
 
 
 ## Ethical Considerations:
-![Data Ethics](https://media.istockphoto.com/id/483732012/photo/ethics-button-on-computer-keyboard.jpg?s=612x612&w=0&k=20&c=76OwYhv4h9mjnVQQdrvFzXS72s89PnmwoAlKqAqZ-bw=)
+![Data Ethics](https://res.cloudinary.com/dvo8xhx6r/image/upload/v1693601008/1000_F_604103639_jkoC1zFMdrNA8LtH3HXhSGukIuTPkPus_om2zt9.jpg)
+
 With great power comes great responsibility. Data science also includes ethical considerations, such as data privacy, bias mitigation, and responsible AI development, to ensure that data is used for the benefit of society as a whole.
 
 In conclusion, data science is at the forefront of the information age. Its ability to turn raw data into actionable insights has applications across diverse fields, making it a critical discipline for organizations and society. Understanding data science is not only a career opportunity but also a means to harness the potential of data for innovation and progress.
